@@ -29,10 +29,5 @@ any other method you have for making .py files function is also viable
 ## Thanks
 
 Thank you very much for playing the game. Pass it on and see who can win 10 rounds with the least # of guesses."# CNA340_Brandon" 
-"# CNA340_Brandon" 
-"# CNA340_Brandon" 
-"# CNA340_Brandon" 
-"# CNA340_Brandon" 
-"# CNA340_Python" 
-"# CNA340_Python" 
-"# CNA340_Python" 
+
+Thanks Zak!
